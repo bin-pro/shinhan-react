@@ -5,8 +5,6 @@ import TopNav from "./components/TopNav/TopNav";
 {
   /*React Router */
 }
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-
 import Home from "./pages/Home/Home";
 
 function App() {
